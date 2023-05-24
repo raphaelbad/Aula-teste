@@ -2,3 +2,5 @@
 Copo do pombo
 #Salvando modificações no git
 ## Salvando alterações no git
+* uso do comando restore
+* comando git push
